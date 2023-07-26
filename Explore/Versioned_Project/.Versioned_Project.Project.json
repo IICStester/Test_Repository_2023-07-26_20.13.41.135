@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "9KOeY4SVjwohinQAwg6rYs",
-    "name" : "Versioned_Project_Renamed",
+    "name" : "Versioned_Project",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
@@ -18,6 +18,6 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2023-07-26T20:15:30.924Z",
+  "updateTime" : "2023-07-26T20:15:35.909Z",
   "objectRefs" : [ ]
 }
